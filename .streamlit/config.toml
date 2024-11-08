@@ -1,0 +1,4 @@
+[server]
+allowRunOnSave = true
+runOnSave = true
+fileWatcherType = "auto"
